@@ -22,7 +22,7 @@
 
 ```bash
 pip install opentimestamps-client
-ots verify evidence/2026-10/snapshot-sha256.txt.ots
+ots verify evidence/2026-10-05/snapshot-sha256.txt.ots   # 目录名是存证日期
 ```
 
 © 2026 云中江树
